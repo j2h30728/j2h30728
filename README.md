@@ -3,7 +3,7 @@
 ## Hey There! 👋
 
 🐹 Dam으로 활동하는 이지현 입니다. <br/>
-🐹 항상 어제의 나보다, 더 나은 성장을 추구하는 사람입니다.<br/>
+🐹 항상 어제의 나보다 더 나은 성장을 추구하는 사람입니다.<br/>
 <br/>
 
 **주요 기술 스택**
@@ -19,5 +19,9 @@
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j2h30728&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![Dam's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2h30728&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rachel28)](https://solved.ac/rachel28)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fj2h30728%2Fhit-counter&count_bg=%2351E4CF&title_bg=%23ACACAC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
