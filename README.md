@@ -9,6 +9,8 @@
 **주요 기술 스택**
 
 <p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=round-square&amp;logo=HTML5&amp;logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=round-square&amp;logo=CSS3&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=round-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=round-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=black"/>
@@ -19,9 +21,6 @@
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j2h30728&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![Dam's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2h30728&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rachel28)](https://solved.ac/rachel28)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fj2h30728%2Fhit-counter&count_bg=%2351E4CF&title_bg=%23ACACAC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
