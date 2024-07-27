@@ -17,6 +17,16 @@
 <img src="https://img.shields.io/badge/Next.js-black?style=round-square&logo=Next.js&logoColor=white"/>
 </p>
 
+**주요 관심사**
+|제목|유형|
+|-|-|
+|[직접 구현한 query string 유틸리티 함수를 활용하여 필터 만들기](https://github.com/j2h30728/dam-movies?tab=readme-ov-file#%EB%B0%B0%ED%8F%AC)|토이 프로젝트|
+|[라이브러리를 사용하지않고, react의 suspense을 사용할 수 있는 useSuspenseFetch와 useInfiniteSuspenseFetch 생성 및 적용](https://github.com/j2h30728/study-suspense-errorboundary)|토이 프로젝트|
+|[AWS Lambda + API Gateway로 Serverless API 만들기](https://velog.io/@rachel28/AWS-Lambda-API-Gateway)|블로그 글|
+|[캘린더 만들기(feat. date-fns)](https://velog.io/@rachel28/React-%EC%BA%98%EB%A6%B0%EB%8D%94%EB%A5%BC-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EC%9E%90-feat.-date-fns)|블로그 글|
+
+
+
 
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j2h30728&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![Dam's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2h30728&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
