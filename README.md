@@ -23,8 +23,8 @@
 |[직접 구현한 query string 유틸리티 함수를 활용하여 필터 만들기](https://github.com/j2h30728/dam-movies?tab=readme-ov-file#%EB%B0%B0%ED%8F%AC)|토이 프로젝트|
 |[라이브러리를 사용하지않고, react의 suspense을 사용할 수 있는 useSuspenseFetch와 useInfiniteSuspenseFetch 생성 및 적용](https://github.com/j2h30728/study-suspense-errorboundary)|토이 프로젝트|
 |[AWS Lambda + API Gateway로 Serverless API 만들기](https://velog.io/@rachel28/AWS-Lambda-API-Gateway)|블로그 글|
+|[라이브러리 없이 무한 슬라이드 만들기](https://velog.io/@rachel28/React-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%97%86%EC%9D%B4-%EB%AC%B4%ED%95%9C-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)|블로그 글|
 |[캘린더 만들기(feat. date-fns)](https://velog.io/@rachel28/React-%EC%BA%98%EB%A6%B0%EB%8D%94%EB%A5%BC-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EC%9E%90-feat.-date-fns)|블로그 글|
-
 
 
 
