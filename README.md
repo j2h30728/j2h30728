@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dam&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
-## Hey There! 👋
+## Hey There! 
 
-🐹 Dam으로 활동하는 이지현 입니다. <br/>
-🐹 항상 어제의 나보다 더 나은 성장을 추구하는 사람입니다.<br/>
+안녕하세요. 이지현 입니다. <br/>
+항상 어제의 나보다 더 나은 성장을 추구하는 사람입니다.<br/>
 <br/>
 
 **주요 기술 스택**
