@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dam&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dahm&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 ## Hey There! 
 
